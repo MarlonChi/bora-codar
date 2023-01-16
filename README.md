@@ -18,7 +18,12 @@
 
 <h2 align="center">Desafio 01 - Player de Música</h2>
 <p align="center">
-  <img alt="rocketpay" src=".github/desafio01.PNG" width="100%">
+  <img alt="desafio-01" src=".github/desafio01.PNG" width="100%">
+</p>
+<br>
+<h2 align="center">Desafio 02 - Card de Produto</h2>
+<p align="center">
+  <img alt="desafio-02" src=".github/desafio02.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -26,7 +31,8 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
   * __HTML__
-  * __CSS__ para estilização.
+  * __CSS__
+  * __JavaScript__ 
 
 ## :memo: Licença
 
