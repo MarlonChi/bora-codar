@@ -1,0 +1,147 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1a1924;
+  color: #e1e1e6;
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  max-width: 1024px;
+  width: 100%;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 32px 72px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.perf-wrapper {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.perf-wrapper img {
+  max-width: 48px;
+  width: 100%;
+  height: 48px;
+}
+
+.perf-wrapper h2 {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.perf-wrapper span {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: #00b37e;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.perf-wrapper span::before {
+  content: "";
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #00b37e;
+}
+
+header > span {
+  cursor: pointer;
+}
+
+#chat .date {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  margin-top: 14px;
+  margin-bottom: 30px;
+}
+
+.chat-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.chat-wrapper .message {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+}
+
+.chat-wrapper .chat {
+  padding: 14px;
+  margin-top: 10px;
+  width: fit-content;
+}
+
+.chat-wrapper .received {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.received .chat {
+  background-color: #633bbc;
+  border-radius: 0px 8px 8px 8px;
+}
+
+.chat-wrapper .send {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.send .chat {
+  background-color: #07847e;
+  border-radius: 8px 8px 0px 8px;
+}
+
+.type-input {
+  position: relative;
+  margin-top: 54px;
+  width: 100%;
+  background: #282843;
+  border-radius: 999px;
+}
+
+.type-input input {
+  width: 90%;
+  background: transparent;
+  border: none;
+  padding: 14px 24px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: #e1e1e6;
+}
+
+.type-input input:focus {
+  border-color: none;
+  border-radius: 999px;
+}
+
+.type-input .icon {
+  position: absolute;
+  right: 14px;
+  top: 8px;
+}

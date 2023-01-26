@@ -27,7 +27,11 @@
 </p>
 <h2 align="center">Desafio 03 - Botões e Cursores</h2>
 <p align="center">
-  <img alt="desafio-02" src=".github/desafio03.PNG" width="100%">
+  <img alt="desafio-02" src=".github/desafio03.PNG" width="80%">
+</p>
+<h2 align="center">Desafio 04 - Chat</h2>
+<p align="center">
+  <img alt="desafio-02" src=".github/desafio04.PNG" width="80%">
 </p>
 
 ## 🚀 Tecnologias
