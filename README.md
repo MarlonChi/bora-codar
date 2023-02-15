@@ -33,6 +33,10 @@
 <p align="center">
   <img alt="desafio-02" src=".github/desafio04.PNG" width="80%">
 </p>
+<h2 align="center">Desafio 05 - Calculadora</h2>
+<p align="center">
+  <img alt="desafio-02" src=".github/desafio05.PNG" width="80%">
+</p>
 
 ## 🚀 Tecnologias
 
