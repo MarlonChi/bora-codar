@@ -27,19 +27,25 @@
 </p>
 <h2 align="center">Desafio 03 - Botões e Cursores</h2>
 <p align="center">
-  <img alt="desafio-02" src=".github/desafio03.PNG" width="80%">
+  <img alt="desafio-03" src=".github/desafio03.PNG" width="80%">
 </p>
 <h2 align="center">Desafio 04 - Chat</h2>
 <p align="center">
-  <img alt="desafio-02" src=".github/desafio04.PNG" width="80%">
+  <img alt="desafio-04" src=".github/desafio04.PNG" width="80%">
 </p>
 <h2 align="center">Desafio 05 - Calculadora</h2>
 <p align="center">
-  <img alt="desafio-02" src=".github/desafio05.PNG" width="80%">
+  <img alt="desafio-05" src=".github/desafio05.PNG" width="80%">
 </p>
 <h2 align="center">Desafio 06 - Cartão de Embarque</h2>
 <p align="center">
-  <img alt="desafio-02" src=".github/desafio06.PNG" width="80%">
+  <img alt="desafio-06" src=".github/desafio06.PNG" width="80%">
+</p>
+
+<h2 align="center">Desafio 07 - Encontre seu bloco</h2>
+<p align="center">
+  <img alt="desafio-07-1" src=".github/desafio07-1.PNG" width="100%">
+  <img alt="desafio-07-1" src=".github/desafio07-2.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
