@@ -48,6 +48,11 @@
   <img alt="desafio-07-1" src=".github/desafio07-2.PNG" width="100%">
 </p>
 
+<h2 align="center">Desafio 08 - Dashboard</h2>
+<p align="center">
+  <img alt="desafio-08" src=".github/desafio08.PNG" width="100%">
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
