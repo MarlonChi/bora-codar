@@ -258,8 +258,3 @@ svg circle:nth-child(2) {
     height: 0;
   }
 }
-
-@media (min-width: 1200px) {
-  #app {
-  }
-}
