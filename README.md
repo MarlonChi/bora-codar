@@ -53,6 +53,11 @@
   <img alt="desafio-08" src=".github/desafio08.PNG" width="100%">
 </p>
 
+<h2 align="center">Desafio 08 - Conversor de moedas</h2>
+<p align="center">
+  <img alt="desafio-09" src=".github/desafio09.PNG" width="100%">
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -60,6 +65,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   * __HTML__
   * __CSS__
   * __JavaScript__ 
+
+  ## 🚀 Libs
+
+  * __Apex Charts__
 
 ## :memo: Licença
 
