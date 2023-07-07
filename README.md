@@ -53,22 +53,27 @@
   <img alt="desafio-08" src=".github/desafio08.PNG" width="100%">
 </p>
 
-<h2 align="center">Desafio 08 - Conversor de moedas</h2>
+<h2 align="center">Desafio 09 - Conversor de moedas</h2>
 <p align="center">
   <img alt="desafio-09" src=".github/desafio09.PNG" width="100%">
+</p>
+
+<h2 align="center">Desafio 10 - Página de Clima</h2>
+<p align="center">
+  <img alt="desafio-09" src=".github/desafio10.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-  * __HTML__
-  * __CSS__
-  * __JavaScript__ 
+- **HTML**
+- **CSS**
+- **JavaScript**
 
-  ## 🚀 Libs
+## 🚀 Libs
 
-  * __Apex Charts__
+- **Apex Charts**
 
 ## :memo: Licença
 
@@ -76,5 +81,4 @@ Esse projeto está sob a [licença MIT](LICENSE).
 
 ## :email: Contato
 
-E-mail: [**marlonchiodelli@hotmail.com**](mailto:marlonchiodelli@hotmail.com)
----
+## E-mail: [**marlonchiodelli@hotmail.com**](mailto:marlonchiodelli@hotmail.com)
