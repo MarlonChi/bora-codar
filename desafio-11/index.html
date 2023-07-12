@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>Bora Codar - Página de login - 11</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div id="page" class="flex">
+      <div>
+        <header><img src="./assets/logo.svg" alt="logo" /></header>
+        <main>
+          <div class="headline">
+            <h1>Acessa a plataforma</h1>
+            <p>
+              Faça login ou registre-se para começar a construir seus projetos
+              ainda hoje.
+            </p>
+          </div>
+          <form>
+            <div class="input-wrapper">
+              <label for="email">E-mail</label>
+              <input
+                id="email"
+                type="email"
+                placeholder="Digite seu e-mail"
+                required
+              />
+            </div>
+            <div class="input-wrapper">
+              <div class="label-wrapper flex">
+                <label for="password">Senha</label>
+                <a href="#">Esqueceu a senha</a>
+              </div>
+              <input
+                id="password"
+                type="password"
+                placeholder="Digite seu e-mail"
+                required
+              />
+              <img
+                onclick="togglePassword()"
+                class="eye show-password"
+                src="./assets/eye-off.svg"
+                alt="ícone olhos fechados"
+              />
+              <img
+                onclick="togglePassword()"
+                class="eye hide-password hide"
+                src="./assets/eye.svg"
+                alt="ícone olho aberto"
+              />
+            </div>
+
+            <button type="submit">Entrar</button>
+
+            <div class="create-account">
+              Ainda não tem uma conta?
+              <a href="#">Inscreva-se</a>
+            </div>
+          </form>
+        </main>
+      </div>
+      <img src="./assets/background.jpg" alt="background" />
+    </div>
+    <script>
+      function togglePassword() {
+        document
+          .querySelectorAll(".eye")
+          .forEach((eye) => eye.classList.toggle("hide"));
+        const type =
+          password.getAttribute("type") === "password" ? "text" : "password";
+        password.setAttribute("type", type);
+      }
+    </script>
+  </body>
+</html>
